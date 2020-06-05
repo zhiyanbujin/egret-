@@ -1,0 +1,33 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/NPC.js",
+		"bin-debug/NPC0.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/LoadingUI2.js",
+		"bin-debug/Main.js",
+		"bin-debug/MainData.js",
+		"bin-debug/MainGame.js",
+		"bin-debug/MainMenu.js",
+		"bin-debug/MainOver.js",
+		"bin-debug/BG.js",
+		"bin-debug/BOSS0.js",
+		"bin-debug/NPC1.js",
+		"bin-debug/NPCManager.js",
+		"bin-debug/NZD.js",
+		"bin-debug/NZDManager.js",
+		"bin-debug/Platform.js",
+		"bin-debug/Player.js",
+		"bin-debug/TX.js",
+		"bin-debug/TXManager.js",
+		"bin-debug/ZD.js",
+		"bin-debug/ZDManager.js"
+	]
+}

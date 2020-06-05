@@ -1,0 +1,328 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,player1_3_png,player1_1_png,player1_2_png,bg12_png,bg11_jpg,bg13_png,pzd2_1_png,pzd2_11_png,pzd2_4_png,pzd2_3_png,pzd1_3_png,pzd1_4_png,npc4_png,npc6_png,npc5_png,nzd1_png,nzd3_png,nzd2_png,nzd4_png,nzd5_png,nzd7_png,nzd8_png,nzd6_png,nzd16_png,tx1_2_png,tx1_1_png,tx1_5_png,tx1_7_png,tx1_6_png,tx1_9_png,tx1_10_png,pzd49_png,tx1_8_png,tx1_4_png,tx1_3_png,boss50_png,boss502_png,pzd40_png,pzd41_png,pzd42_png,pzd43_png,pzd44_png,pzd47_png,pzd45_png,pzd46_png,pzd48_png,pzd34_png,bsxg1_1_png,bg31_jpg,btn_start_png,sl_img_png,sl_name_png,bg41_jpg,menu_bg1_jpg,menu_bg2_jpg,help_im_png",
+			"name": "game"
+		},
+		{
+			"keys": "gameBackground_jpg,btn_start_png,sl_name_png,sl_img_png",
+			"name": "menu"
+		},
+		{
+			"keys": "game_uiboss3_png,game_uijn2_png,game_uijn1_png",
+			"name": "main"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/player1_3.png",
+			"type": "image",
+			"name": "player1_3_png"
+		},
+		{
+			"url": "assets/player1_1.png",
+			"type": "image",
+			"name": "player1_1_png"
+		},
+		{
+			"url": "assets/player1_2.png",
+			"type": "image",
+			"name": "player1_2_png"
+		},
+		{
+			"url": "assets/bg12.png",
+			"type": "image",
+			"name": "bg12_png"
+		},
+		{
+			"url": "assets/bg11.jpg",
+			"type": "image",
+			"name": "bg11_jpg"
+		},
+		{
+			"url": "assets/bg13.png",
+			"type": "image",
+			"name": "bg13_png"
+		},
+		{
+			"url": "assets/pzd2_1.png",
+			"type": "image",
+			"name": "pzd2_1_png"
+		},
+		{
+			"url": "assets/pzd2_11.png",
+			"type": "image",
+			"name": "pzd2_11_png"
+		},
+		{
+			"url": "assets/pzd2_4.png",
+			"type": "image",
+			"name": "pzd2_4_png"
+		},
+		{
+			"url": "assets/pzd2_3.png",
+			"type": "image",
+			"name": "pzd2_3_png"
+		},
+		{
+			"url": "assets/pzd1_3.png",
+			"type": "image",
+			"name": "pzd1_3_png"
+		},
+		{
+			"url": "assets/pzd1_4.png",
+			"type": "image",
+			"name": "pzd1_4_png"
+		},
+		{
+			"url": "assets/npc4.png",
+			"type": "image",
+			"name": "npc4_png"
+		},
+		{
+			"url": "assets/npc6.png",
+			"type": "image",
+			"name": "npc6_png"
+		},
+		{
+			"url": "assets/npc5.png",
+			"type": "image",
+			"name": "npc5_png"
+		},
+		{
+			"url": "assets/nzd1.png",
+			"type": "image",
+			"name": "nzd1_png"
+		},
+		{
+			"url": "assets/nzd3.png",
+			"type": "image",
+			"name": "nzd3_png"
+		},
+		{
+			"url": "assets/nzd2.png",
+			"type": "image",
+			"name": "nzd2_png"
+		},
+		{
+			"url": "assets/nzd4.png",
+			"type": "image",
+			"name": "nzd4_png"
+		},
+		{
+			"url": "assets/nzd5.png",
+			"type": "image",
+			"name": "nzd5_png"
+		},
+		{
+			"url": "assets/nzd7.png",
+			"type": "image",
+			"name": "nzd7_png"
+		},
+		{
+			"url": "assets/nzd8.png",
+			"type": "image",
+			"name": "nzd8_png"
+		},
+		{
+			"url": "assets/nzd6.png",
+			"type": "image",
+			"name": "nzd6_png"
+		},
+		{
+			"url": "assets/nzd16.png",
+			"type": "image",
+			"name": "nzd16_png"
+		},
+		{
+			"url": "assets/tx1_2.png",
+			"type": "image",
+			"name": "tx1_2_png"
+		},
+		{
+			"url": "assets/tx1_1.png",
+			"type": "image",
+			"name": "tx1_1_png"
+		},
+		{
+			"url": "assets/tx1_5.png",
+			"type": "image",
+			"name": "tx1_5_png"
+		},
+		{
+			"url": "assets/tx1_7.png",
+			"type": "image",
+			"name": "tx1_7_png"
+		},
+		{
+			"url": "assets/tx1_6.png",
+			"type": "image",
+			"name": "tx1_6_png"
+		},
+		{
+			"url": "assets/tx1_9.png",
+			"type": "image",
+			"name": "tx1_9_png"
+		},
+		{
+			"url": "assets/tx1_10.png",
+			"type": "image",
+			"name": "tx1_10_png"
+		},
+		{
+			"url": "assets/pzd49.png",
+			"type": "image",
+			"name": "pzd49_png"
+		},
+		{
+			"url": "assets/tx1_8.png",
+			"type": "image",
+			"name": "tx1_8_png"
+		},
+		{
+			"url": "assets/tx1_4.png",
+			"type": "image",
+			"name": "tx1_4_png"
+		},
+		{
+			"url": "assets/tx1_3.png",
+			"type": "image",
+			"name": "tx1_3_png"
+		},
+		{
+			"url": "assets/boss50.png",
+			"type": "image",
+			"name": "boss50_png"
+		},
+		{
+			"url": "assets/boss50.png",
+			"type": "image",
+			"name": "boss502_png"
+		},
+		{
+			"url": "assets/pzd40.png",
+			"type": "image",
+			"name": "pzd40_png"
+		},
+		{
+			"url": "assets/pzd41.png",
+			"type": "image",
+			"name": "pzd41_png"
+		},
+		{
+			"url": "assets/pzd42.png",
+			"type": "image",
+			"name": "pzd42_png"
+		},
+		{
+			"url": "assets/pzd43.png",
+			"type": "image",
+			"name": "pzd43_png"
+		},
+		{
+			"url": "assets/pzd44.png",
+			"type": "image",
+			"name": "pzd44_png"
+		},
+		{
+			"url": "assets/pzd47.png",
+			"type": "image",
+			"name": "pzd47_png"
+		},
+		{
+			"url": "assets/pzd45.png",
+			"type": "image",
+			"name": "pzd45_png"
+		},
+		{
+			"url": "assets/pzd46.png",
+			"type": "image",
+			"name": "pzd46_png"
+		},
+		{
+			"url": "assets/pzd48.png",
+			"type": "image",
+			"name": "pzd48_png"
+		},
+		{
+			"url": "assets/pzd34.png",
+			"type": "image",
+			"name": "pzd34_png"
+		},
+		{
+			"url": "assets/bsxg1_1.png",
+			"type": "image",
+			"name": "bsxg1_1_png"
+		},
+		{
+			"url": "assets/bg31.jpg",
+			"type": "image",
+			"name": "bg31_jpg"
+		},
+		{
+			"url": "assets/gameBackground.jpg",
+			"type": "image",
+			"name": "gameBackground_jpg"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "btn_start_png"
+		},
+		{
+			"url": "assets/sl_img.png",
+			"type": "image",
+			"name": "sl_img_png"
+		},
+		{
+			"url": "assets/sl_name.png",
+			"type": "image",
+			"name": "sl_name_png"
+		},
+		{
+			"url": "assets/game_uiboss3.png",
+			"type": "image",
+			"name": "game_uiboss3_png"
+		},
+		{
+			"url": "assets/game_uiboss3.png",
+			"type": "image",
+			"name": "game_uiboss32_png"
+		},
+		{
+			"url": "assets/game_uijn1.png",
+			"type": "image",
+			"name": "game_uijn1_png"
+		},
+		{
+			"url": "assets/game_uijn2.png",
+			"type": "image",
+			"name": "game_uijn2_png"
+		},
+		{
+			"url": "assets/bg41.jpg",
+			"type": "image",
+			"name": "bg41_jpg"
+		},
+		{
+			"url": "assets/menu_bg1.jpg",
+			"type": "image",
+			"name": "menu_bg1_jpg"
+		},
+		{
+			"url": "assets/menu_bg2.jpg",
+			"type": "image",
+			"name": "menu_bg2_jpg"
+		},
+		{
+			"url": "assets/help_im.png",
+			"type": "image",
+			"name": "help_im_png"
+		}
+	]
+}
